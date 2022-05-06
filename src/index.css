@@ -20,7 +20,7 @@
   @apply from-blue-800 to-black text-white;
 }
 .slide-3 {
-  @apply from-green-600 to-black text-white;
+  @apply from-white to-green-300 text-black;
 }
 .slide-4 {
   @apply from-sky-200 to-amber-200 text-black;

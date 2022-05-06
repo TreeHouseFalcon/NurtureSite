@@ -69,5 +69,11 @@ onMounted(() => {
   aud.value.addEventListener("playing", () => {
     updateVid();
   });
+
+  document.addEventListener("visibilitychange", (e) => {
+    if (document.visibilityState == "visible") {
+      updateVid();
+    }
+  });
 });
 </script>

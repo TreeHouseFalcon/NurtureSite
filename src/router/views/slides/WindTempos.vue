@@ -4,7 +4,7 @@
     <h2 class="text-center text-xl"><a class="underline" href="https://www.youtube.com/watch?v=k45XcsIc0Ow" target="_blank" @click="aud.pause()">Full song</a></h2>
     <div class="mt-10">
       <div class="float-left mr-10 mb-5">
-        <img class="border-2 border-white mb-2 rounded-xl" src="../../../assets/vid/wind_tempos.png" alt="Wind tempos image" />
+        <img class="border-2 border-black mb-2 rounded-xl" src="../../../assets/vid/wind_tempos.png" alt="Wind tempos image" />
         <audio class="mx-auto" ref="aud" controls>
           <source src="../../../assets/sound/wind_tempos.mp3" type="audio/mpeg" />
           Cannot play audio :(

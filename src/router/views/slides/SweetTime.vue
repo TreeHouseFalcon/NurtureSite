@@ -13,7 +13,14 @@
       <div class="text-justify font-bold text-2xl">
         <p>
           Sweet Time is a slow-paced ballad about Porter's girlfriend, Rika. Two songs on the album are dedicated to her and she was the biggest personal inspiration to Porter at the time he was
-          writing the album.
+          writing Nurture. Sweet Time is one of them. I included Sweet Time over the other song because it reveals a bit more about Porter's psychological profile.
+        </p>
+        <p>
+          What makes Sweet Time significant is that it seems to be the only song on the album where Porter says exactly and literally how bad his depressive period got: "since I met you, I don't wanna
+          die no more." The song being slower than the others on the album also shows that Porter realizes the importance of taking a minute to enjoy his life in the moment. This is reinforced in the
+          second verse when he admits that although life can be bad sometimes, it's not good to dwell on that.
+          <a class="link" href="https://news.harvard.edu/gazette/story/2016/12/optistic-women-live-longer-are-healthier/" target="_blank">A study conducted by Harvard University</a> showed that
+          focusing on the positive aspects of life can lengthen life expectancies and reduce risk of various diseases.
         </p>
       </div>
     </div>
