@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Batang";
+  src: url("../public/fonts/BATANG.ttf");
+}
+
+.slide-0 {
+  @apply from-black to-black text-white;
+}
+.slide-1 {
+  @apply from-sky-300 to-white text-black;
+}
+.slide-2 {
+  @apply from-blue-800 to-black text-white;
+}
+.slide-3 {
+  @apply from-green-600 to-black text-white;
+}
+.slide-4 {
+  @apply from-sky-200 to-amber-200 text-black;
+}
+.slide-5 {
+  @apply from-amber-400 to-fuchsia-200 text-black;
+}
+.slide-6 {
+  @apply from-gray-800 to-black text-white;
+}
+.slide-7 {
+  @apply from-white to-green-300 text-black;
+}
+
+.btn {
+  @apply font-sans text-sm border-2 p-2 hover:bg-gray-600 transition-all rounded-lg;
+}
+.link {
+  @apply text-sky-500 underline;
+}
+
+.fade-leave-from,
+.fade-enter-from {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  transition: opacity 2s ease;
+}
+
+.fade-enter-to {
+  opacity: 1;
+}
+
+.slide-up-fade-leave-from {
+  opacity: 0;
+}
+.slide-up-fade-enter-from {
+  opacity: 0;
+  transform: translateY(200px);
+}
+.slide-up-fade-enter-active {
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.slide-up-fade-enter-to {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slide-right-fade-leave-from {
+  opacity: 1;
+  display: none;
+  transform: translateX(0px);
+}
+.slide-right-fade-enter-from {
+  opacity: 0;
+  transform: translateX(-100vw);
+}
+.slide-right-fade-enter-active {
+  transition: opacity 1s ease, transform 0.5s ease;
+}
+.slide-right-fade-leave-to {
+  opacity: 0;
+  display: none;
+  transform: translateX(100vw);
+}
+.slide-right-fade-enter-to {
+  opacity: 1;
+  transform: translateY(0px);
+}
+
+.slide-left-fade-leave-from {
+  opacity: 1;
+  display: none;
+  transform: translateX(0px);
+}
+.slide-left-fade-enter-from {
+  opacity: 0;
+  transform: translateX(100vw);
+}
+.slide-left-fade-enter-active {
+  transition: opacity 1s ease, transform 0.5s ease;
+}
+.slide-left-fade-leave-to {
+  opacity: 0;
+  display: none;
+  transform: translateX(-100vw);
+}
+.slide-left-fade-enter-to {
+  opacity: 1;
+  transform: translateY(0px);
+}
