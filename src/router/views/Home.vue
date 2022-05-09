@@ -12,6 +12,8 @@
             <h1 class="text-3xl text-center">
               This presentation may contain visuals that photosensitive people might find problematic. I've tried to keep this in mind, however it's advisable to turn down your brightness if you have
               health concerns.
+              <br />
+              Additionally, a short audio will play on the next page. Please lower your volume and raise it to a suitable level when you hear it.
             </h1>
             <button
               class="btn mx-auto my-5"
