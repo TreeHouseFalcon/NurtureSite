@@ -41,8 +41,8 @@
         </div>
         <br />
         <p class="text-sm">
-          p.s. to Dr. Sims - I saw you included a picture of you at the Red Rocks Ampitheater on your class intro presentation. I recently went to see Porter play there and it was the perfect venue to
-          choose for this album!
+          p.s. to Dr. Sims - I saw you included a picture of you at the Red Rocks Ampitheater on your class intro presentation. I recently went to see Porter perform there and it was the perfect venue
+          to choose for this album!
         </p>
       </div>
     </div>

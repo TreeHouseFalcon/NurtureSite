@@ -19,8 +19,8 @@
         <p>
           The song starts out with an ethereal melody of piano, wind instruments, and a vocal backing. Halfway through it takes on a darker, more empty tone. You can hear clicking sounds in the
           background and it sounds like someone is in a room working alone. Not only did Porter have a massive creative block for a few years, but
-          <a class="link" href="https://www.thefader.com/2021/05/06/porter-robinson-the-fader-interview-podcast-nurture-interview" target="_blank">he also isolated himself</a> from friends and any
-          other external inspiration.
+          <a class="link" href="https://www.thefader.com/2021/05/06/porter-robinson-the-fader-interview-podcast-nurture-interview" target="_blank" @click="aud.pause()">he also isolated himself</a>
+          from friends and any other external inspiration.
           <a
             class="link"
             href="https://www.health.harvard.edu/mind-and-mood/how-isolation-affects-memory-and-thinking-skills#:~:text=Isolation%20is%20also%20associated%20with,who%20don't%20feel%20lonely."

@@ -26,7 +26,7 @@
   @apply from-sky-200 to-amber-200 text-black;
 }
 .slide-5 {
-  @apply from-amber-400 to-fuchsia-200 text-black;
+  @apply from-amber-300 to-fuchsia-200 text-black;
 }
 .slide-6 {
   @apply from-gray-800 to-black text-white;
