@@ -19,10 +19,11 @@
           previous works: Worlds and Shelter. This song was started in 2018, which was two years after he started producing Look At The Sky.
         </p>
         <p>
-          According to <a class="link" href="https://www.sciencedirect.com/science/article/pii/S0160412021002208" target="_blank">an article published by ScienceDirect</a>, overworking yourself for
-          long hours can lead to heart disease, strokes, and an early death. This song touches on how Porter's long work hours didn't actually end up giving him any returning success or productivity.
-          His original boost to fame was quicker than he could handle, and fame isn't permanent. He acknowledges this and realizes that he doesn't have to come up with some elaborate plan for his
-          career, that he just has to continue making music people enjoy listening to.
+          The most prominent theme here is that Porter overworked himself. This coupled with his self-isolation was not healthy for his productivity. According to
+          <a class="link" href="https://www.sciencedirect.com/science/article/pii/S0160412021002208" target="_blank">an article published by ScienceDirect</a>, overworking yourself for long hours can
+          lead to heart disease, strokes, and an early death. This song touches on how Porter's long work hours didn't actually end up giving him any returning success or productivity. His original
+          boost to fame was quicker than he could handle, and fame isn't permanent. He acknowledges this and realizes that he doesn't have to come up with some elaborate plan for his career, that he
+          just has to continue making music people enjoy listening to.
         </p>
       </div>
     </div>

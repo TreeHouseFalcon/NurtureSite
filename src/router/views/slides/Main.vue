@@ -32,13 +32,13 @@
           pushing himself at his career peak, Nurture is an hour-long psychological profile of Porter Robinson.
           <div class="flex flex-row justify-center items-center gap-5 w-full my-5">
             <figure class="text-center text-sm w-1/4">
-              <img src="../../../assets/nurture.png" />
+              <img class="border-2 border-white rounded-lg" src="../../../assets/nurture.png" />
               <figcaption>The album cover for Nurture</figcaption>
             </figure>
             <figure class="text-center text-sm w-1/2">
-              <img src="../../../assets/header.jpg" />
+              <img class="border-2 border-white rounded-lg" src="../../../assets/header.jpg" />
               <figcaption>This is the style that Nurture's design takes on</figcaption>
-              </figure>
+            </figure>
           </div>
         </p>
         <p>
